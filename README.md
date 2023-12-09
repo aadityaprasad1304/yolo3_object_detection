@@ -46,7 +46,7 @@ This project showcases real-time object detection using the YOLO (You Only Look 
 
 5. **Run the Python script:**
     ```bash
-    python your_script_name.py
+    python live.py
     ```
 
 ## Usage
