@@ -1,6 +1,5 @@
 # Real-Time Object Detection with YOLO and OpenCV
 
-![Example](path/to/example/image.png)
 
 ## Overview
 
