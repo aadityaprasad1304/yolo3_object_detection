@@ -68,9 +68,6 @@ This project showcases real-time object detection using the YOLO (You Only Look 
 
 Contributions are welcome! If you find any issues or have enhancements to suggest, please open an issue or create a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
@@ -79,5 +76,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For inquiries and suggestions, please contact [Your Name] at [your.email@example.com].
+For inquiries and suggestions, please contact Aditya Prasad at adityaprasad11@gmail.com
 
