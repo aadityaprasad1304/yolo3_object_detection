@@ -31,20 +31,14 @@ This project showcases real-time object detection using the YOLO (You Only Look 
     wget https://raw.githubusercontent.com/pjreddie/darknet/master/data/coco.names
     ```
 
-2. **Download YOLOv3 weights:**
-    - Full weights:
-        ```bash
-        wget https://pjreddie.com/media/files/yolov3.weights
-        ```
+2. **Download YOLOv3 configuration file (yolov3.cfg).**
 
-3. **Download YOLOv3 configuration file (yolov3.cfg).**
-
-4. **Install Python dependencies:**
+3. **Install Python dependencies:**
     ```bash
     pip install opencv-python numpy
     ```
 
-5. **Run the Python script:**
+4. **Run the Python script:**
     ```bash
     python live.py
     ```
